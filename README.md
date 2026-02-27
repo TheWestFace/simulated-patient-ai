@@ -1,4 +1,4 @@
-<div align="center"> <h1><b> SimPatient AI </b></h1> </div> 
+<div align="center"> <h1><b> SimPatient.AI </b></h1> </div> 
 
 ## Overview
 
@@ -47,5 +47,5 @@ simulated-patient-ai/
     ```
     python src/main.py
     ```
-    - Press *ENTER* to start talking to the simulated patient.
-    - Type *Q* and press *ENTER* anytime to quit.
+    - Press **ENTER** to start talking to the simulated patient.
+    - Type **Q** and press **ENTER** anytime to quit.
