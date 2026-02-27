@@ -1,6 +1,6 @@
-<div align="center"> <h2><b> SimPatient AI </b></h2> </div> 
+<div align="center"> <h1><b> SimPatient AI </b></h1> </div> 
 
-# Overview
+## Overview
 
 A Python-based interactive system that simulates patients for mental health clinician training.  
 Users can speak to AI-simulated patients with specific mental health conditions (e.g., depression), and the AI responds naturally with audio output.
